@@ -1,0 +1,5 @@
+/home/mafonchik/OOP_lab3/lab3/build/CMakeFiles/figures.dir
+/home/mafonchik/OOP_lab3/lab3/build/CMakeFiles/lab3_main.dir
+/home/mafonchik/OOP_lab3/lab3/build/CMakeFiles/run_tests.dir
+/home/mafonchik/OOP_lab3/lab3/build/CMakeFiles/edit_cache.dir
+/home/mafonchik/OOP_lab3/lab3/build/CMakeFiles/rebuild_cache.dir

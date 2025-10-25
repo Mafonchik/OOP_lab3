@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfigures.a CMakeFiles/figures.dir/src/Figure.cpp.o CMakeFiles/figures.dir/src/diamond.cpp.o CMakeFiles/figures.dir/src/hexagon.cpp.o CMakeFiles/figures.dir/src/pentagon.cpp.o
+/usr/bin/ranlib libfigures.a
